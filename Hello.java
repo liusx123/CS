@@ -4,5 +4,6 @@ public class hello {
         System.out.println("认真听课的孩子");
         System.out.println("不认真听课的孩子");
         System.out.println("世界，你好！");
+        System.out.println(new java.util.Date());
     }
 }
